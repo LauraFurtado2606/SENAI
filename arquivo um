@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laura Furtado</title>
+    <style>
+        p{
+            color: rgb(36, 248, 177);
+            font-size: 18px;
+            font-weight: bold;
+        }
+        destaque{
+            background-color: rgb(226, 12, 226);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://pbs.twimg.com/media/FdxJafjWABwAlWp?format=jpg&name=4096x4096" width="450">
+        <h1><strong> Laura Furtado</strong></h1>
+        <p>OII meu nome é Laura e eu amo gatos</p>
+    <h2><strong>Play.O</strong></h2>
+    <p><em>lista de 3 coisas que eu gosto</em></p>
+    <ol>
+        <li><a href="https://i0.statig.com.br/bancodeimagens/3r/b2/dp/3rb2dpe873w0hnlnm8wwz4vtf.jpg">Gatinhos</a></li>
+        <li><a href="https://www.revistabula.com/wp/wp-content/uploads/2019/06/coxinha.jpg">Comida</a></li>
+        <li><a href="https://otorrinogarrafa.com.br/wp-content/uploads/2019/11/pessoa-dormindo-1.jpg">Dormir</a> </a></li>
+    </ol>
+        <img src="CL.jpg" width="200">
+        <p style="color: rgb(251, 0, 255); font-size: 18px;">Carina Leone é uma personagem que me representa</p>
+        <p><em>Lista de 3 coisas que eu NÃO gosto</em></p>
+        <ul>
+            <li><a href="https://vandal-us.s3.amazonaws.com/spree/products/5eb0d296f7d89f3c17bacaf9/original/uploads_2F1588646461524-xvcb3kj3wxq-0d802d1f4369c21503fc55cedb23385b_2Fppg1.jpg">Acordar cedo</a></li>
+            <li><a href="https://br.freepik.com/vetores-premium/padrao-de-multidao-de-pessoas-jovens-multietnicas-homens-e-mulheres-pessoas-grupo-ilustracao-perfeita_8637339.htm">Lugares lotados</a></li>
+            <li><a href="https://scfoods.fbitsstatic.net/img/p/tomate-italiano-maduro-para-molho-500g-70893/257511.jpg?w=800&h=800&v=no-change&qs=ignore">Tomate</a></li>
+        </ul>
+    <h3><strong><em>MEUS GATINHOS</em></strong></h3>
+    <img src="WhatsApp Image 2023-05-25 at 10.30.05 (1).jpeg" width="300">
+    <h4>Meu gatinho Simba</h4>
+    <img src="WhatsApp Image 2023-05-25 at 10.30.05.jpeg" width="300">
+    <h5>Esse é meu gatinho o Banguela</h5>
+    <img src="WhatsApp Image 2023-05-25 at 11.11.27.jpeg" width="300">
+    <h6>Essa é a Neguinha S2</h6>
+   
+    
+     </header>
+</body>
+</html>
