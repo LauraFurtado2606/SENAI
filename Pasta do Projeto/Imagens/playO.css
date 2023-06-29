@@ -1,5 +1,5 @@
 
-h1{
+h2{
     color: #8806b0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
@@ -10,10 +10,11 @@ h1{
     justify-content: space-around;
     align-items: center;
     height: 100vh;
-    /* padding: 10px 0; */
-    background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#8222AA));
-    background: -moz-linear-gradient(top, #000000, #8222AA);
-    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#000000', EndColorStr='#8222AA'); 
+    /* padding: 10px ; */
+    background-image: url(../imagens/Group\ 31.png);
+    background-size: cover;
+   
+   
 
 }
 .logo{
@@ -21,8 +22,8 @@ h1{
     /*height: 100px;*/
 }
 .telas{
-    width: 500px;
-    /*height: 100px;*/
+    width: 550px;
+    /*height: 150px;*/
 }
 .playO{
     width: 50vw;
