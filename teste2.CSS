@@ -1,0 +1,54 @@
+h1{
+    font-size: 100px;
+}
+h3{
+    color: #ffffff;
+    font-size: 50px;
+}
+p{
+    color: #ffffff;
+    font-size: 20px;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+h2{
+    color: #ffffff;
+    ;
+}
+.capa {
+    color: white;
+    background-color: rgb(3, 93, 107);
+    height: 80vh;
+    margin: 0px;
+}
+.aluno {
+    color: white;
+    background-color: rgb(4, 53, 60);
+    text-align: right;
+    height: 80vh;
+    display: flex;
+    gap: 150px;
+}
+.portifolio {
+    color: white;
+    background-color: rgb(102, 3, 106);
+    text-align: left;
+    height: 80vh;
+}
+.grupo {
+    color: white;
+    background-color: rgb(4, 53, 60);
+    text-align: left;
+    height: 80vh;
+}
+.grupos {
+    color: white;
+    background-color: rgb(4, 53, 60);
+    text-align: left;
+    height: 80vh;
+}
